@@ -1,0 +1,11 @@
+{
+  "name": "iconify-api",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.2.433"
+  }
+}
