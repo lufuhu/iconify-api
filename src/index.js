@@ -1,4 +1,4 @@
-import icons from '@iconify/json';
+import icons from './icons.js';
 export default {
     async fetch(request) {
         // Create a URL object from the incoming request

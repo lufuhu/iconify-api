@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev"
+    "dev": "node src/index.js"
   },
   "devDependencies": {
     "@iconify/json": "^2.2.433"
